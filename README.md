@@ -13,4 +13,6 @@ mas ficou bem bonito. Nota: Apenas o link do 3º card está com o meu primeiro t
 3 - My new portfolio foi outra ideia de portfólio que pensei em criar utilizando animações, ainda não está completo também, falta o menu lateral da SideBar e também fazer algumas
 animações na própria side-bar.
 
-4 - O ultimo foi apenas um teste para aplicar no newPortfolio.
+4 - teste de animação para aplicar no projeto do meu portfólio.
+
+5 - O ultimo foi apenas um clone do site do Starbucks utilizando HTML e CSS apenas, nada de JavaScript.
